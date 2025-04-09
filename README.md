@@ -43,9 +43,9 @@ https://ijirt.org/publishedpaper/IJIRT160995_PAPER.pdf?utm_source=chatgpt.com
 
 #Team & Mentors
 
-Premadasa J.M.Y.P.D.S. (2020E115)-Project proposal,Circuit Design,Circuit Implementation
-Senarathna S.P.S.V. (2019E131)-Circuit Design,Circuit Implementation
-Aberathna E.M.K.V.S. (2020E002)-Code Implementation,Circuit Implementation
-Wickramasinghe W.K.M.T.D. (2020E174)-Code Testing,Error Fixing,Circuit Implementation
+Premadasa J.M.Y.P.D.S. (2020E115)
+Senarathna S.P.S.V. (2019E131)
+Aberathna E.M.K.V.S. (2020E002)
+Wickramasinghe W.K.M.T.D. (2020E174)
 
 
